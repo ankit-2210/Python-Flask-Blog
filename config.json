@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Reliance Blog",
+    "tag_line": "A Blog liked by Jio users",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is Ankit and I am doing programming practice and I am a good boy",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "Ankit",
+    "admin_password": "1234",
+    "upload_location": "C:\\Users\\Ankit Agarwal\\PycharmProjects\\pythonProject3\\Flask\\static"
+  }
+}
